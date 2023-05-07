@@ -7,7 +7,8 @@ Project 2: Created an Automatic File Sorter in File Exlplorer using 'OS' Module,
 
 Project 3: Created an Amazon Web Scraper using 'BeautifulSoup' Library, 'Requests' Module, and 'Pandas' Library.
 
-Project 4: Creating a script for Automatic API Pulling of a Crypto Website using 'Requests' Module, 'Json', 'Pandas' Library, 'Matplotlib' Library, 'OS' Module, 
-           'GroupBY' function, 'Seaborn'Module etc.
+Project 4: Creating a script for Automatic API Pulling of a Crypto Website using 'Requests' Module, 'Json', 'Pandas' Library, 'Matplotlib' Library, 'OS' Module, 'GroupBY' function, 'Seaborn' Module etc.
+
+Project 5: Created a Movie Correlation Project using 'Pandas' & 'NumPy' Libraries, 'Seaborn' Module, 'Matplotlib' Library etc. 
 
 
