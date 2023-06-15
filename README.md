@@ -11,9 +11,9 @@ This repository contains all the Python  - Portfolio Project
 
 <font size=7><b> Project 5:</b></font> Created a Movie Correlation Project using 'Pandas' & 'NumPy' Libraries, 'Seaborn' Module, 'Matplotlib' Library etc.</font>
 
-<font size=7><b> Project 6:</b></font> Scraped the Top Rated 250 Movies from IMDb Website using 'Requests' Module, 'BeautifulSoup' Library, and 'Pandas' Library. </font>
+<font size=7><b> Project 6:</b></font> Scraped the Top Rated 250 Movies from IMDb Website, and stored it in a Excel File using 'Requests' Module, 'BeautifulSoup' Library, and 'Pandas' Library. </font>
 
-<font size=7><b> Project 7:</b></font> Created a Movie Correlation Project using 'Pandas' & 'NumPy' Libraries, 'Seaborn' Module, 'Matplotlib' Library etc.</font>
+<font size=7><b> Project 7:</b></font> In this Project, I worked with Image Data & Processed it using 'Pandas' Library, 'Matplotlib' Library, 'OpenCV' Library, and 'Glob' Module. </font>
 
 
 
